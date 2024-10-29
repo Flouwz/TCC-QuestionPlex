@@ -53,7 +53,7 @@
         </p>
         <h1><li>Revisão Teórica</li></h1>
         <p>
-            <b>Abra o google docs</b>
+            <b><a href="https://docs.google.com/document/d/19TTjM_w64La2SfERuvxhio14u1eZ-fkY/edit">Imagens da revisão teórica</a></b>
         </p>
         <h1><li>Metodologia</li></h1>
         <p>
